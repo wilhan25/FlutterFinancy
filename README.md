@@ -1,0 +1,2 @@
+# FlutterFinancy
+App de finança
